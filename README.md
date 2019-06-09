@@ -9,7 +9,7 @@ A lot of it is standard express dependencies with additional packages for type s
 * The first departure from a standard express pattern is in routes handled by [express-enrouten](https://github.com/krakenjs/express-enrouten) 
 * I have added in [lodash](https://lodash.com/) because I felt it helped me not reinvent the wheel despite some of the features being added into newer versions of javascript. 
 * [Moment](http://momentjs.com) is super useful for any datetime needs and I eventually find myself installing this sooner or later
-* [Sequelize](https://github.com/sequelize/sequelize) and sequelize-cli[https://github.com/sequelize/cli] are used to create the structure inside the `db` folder. The `connection.ts` file provides an object connected to the db as specified in the root `config` folder.
+* [Sequelize](https://github.com/sequelize/sequelize) and [sequelize-cli](https://github.com/sequelize/cli) are used to create the structure inside the `db` folder. The `connection.ts` file provides an object connected to the db as specified in the root `config` folder.
 
 ### Run
 
