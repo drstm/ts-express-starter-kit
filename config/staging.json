@@ -1,0 +1,13 @@
+{
+    "mysql": {
+        "username": "",
+        "password": "",
+        "database": "",
+        "host": "127.0.0.1",
+        "dialect": "mysql",
+        "pool": 10,
+        "dateStrings": true,
+        "debug": false,
+        "port": 3306
+    }
+}
